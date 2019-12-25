@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{%- include head.html -%}
+	<link rel="alternate" type="application/rss+xml" href="https://iamselcuk.github.io/feed.xml" />
+
+</head>
+<body>
+	<a href="https://iamselcuk.github.io/feed.xml">RSS feed.</a>
+
+	<main class="container">
+		<section class="about">
+			<img src="{{ "/assets/portfolio.png" | relative_url }}" alt="{{ site.plainwhite.name }}">
+			<h2>{{ site.plainwhite.name }}</h2>
+
+			<p class="tagline">{{ site.plainwhite.tagline }}</p>
+			<ul class="social">
+				<a href="https://github.com/{{ site.plainwhite.social_links.github }}"><li><i class="icon-github-circled"></i></li></a>
+				<a href="https://www.linkedin.com/{{ site.plainwhite.social_links.linkedIn }}"><li><i class="icon-linkedin-squared"></i></li></a>
+				<a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}"><li><i class="icon-twitter-squared"></i></li></a>
+			        <a href="https://instagram.com/{{ site.plainwhite.social_links.instagram }}"><li><i class="icon-instagram-squared"></i></li></a>
+			</ul>
+
+			<p>&copy; 2019</p>
+
+		</section>
+		<section class="content">
+			{{ content }}
+
+		</section>
+		
+	</main>
+	{%- if site.plainwhite.analytics_id -%}
+	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', '{{ site.plainwhite.analytics_id }}');
+	</script>
+	{%- endif -%}
+
+</body>
+{% if page.collection %}
+    {% assign links = site[page.collection]  %}
+{% endif %}
+
+{% for link in links %}
+	{% if link.title == page.title %}
+		{% unless forloop.first %}
+			{% assign prev = tmpprev %}
+		{% endunless %}
+		{% unless forloop.last %}
+			{% assign next = links[forloop.index] %}
+		{% endunless %}
+	{% endif %}
+	{% assign tmpprev = link %}
+{% endfor %}
+
+<ul class="prevnext">
+	<li>{% if prev %}<a href="{{ prev.url}}">&lt; {{ prev.title }}</a>{% endif %}</li>
+	<li>{% if next %}<a href="{{ next.url}}">{{ next.title }} &gt;</a>{% endif %}</li>
+</ul>
+</html>
