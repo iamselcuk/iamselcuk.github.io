@@ -12,9 +12,9 @@ Projenin asagidaki pdf dosyasindan mevcuttur. Projenin 3 boyutlu haritasi youtub
 koyu olmasi ve hali hazirda ciftcilik yapan bir elin parmaklarini gecmeyen ciftsi bulunmasi ve bu ciftcilerin tarlalarini
 sulamak icin dag tepe deldirmesi uzerine  bana yapilabilir bir calisma olarak gelmistir. Cifcilere boyle bir aletle umurbey barajindan su getirilebilecegi bilgisi verilmistir, bakalim bunu gerceklestirebilecek miyiz.
 
-buradan sulama guzergahi ve yuksekliklere iliskin bilgiler islenmistir.
 
-<iframe src="https://github.com/iamselcuk/iamselcuk.github.io/blob/master/assets/akcaalansulamaprojesi.pdf" width="100%" height="100%"></iframe>
+[buradan sulama guzergahi ve yuksekliklere iliskin bilgiler islenmistir.](https://github.com/iamselcuk/iamselcuk.github.io/blob/master/assets/akcaalansulamaprojesi.pdf)
+
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
