@@ -1,5 +1,5 @@
 ---
-name: siir kitabim
+name: Siir kitabim
 price: 30
 sku: TLS
 image: https://iamselcuk.github.io/assets/1.jpg
