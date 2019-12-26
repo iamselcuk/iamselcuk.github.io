@@ -1,10 +1,10 @@
 ---
-name: Siir kitabim
+name: siir kitabim
 price: 30
 sku: TLS
 image: https://iamselcuk.github.io/assets/1.jpg
 layout: productdetails
-title:  "siir kitabi"
+title:  "Siir kitabi"
 date:   2019-03-23 21:03:36 +0530
 categories: "siirler"
 comments: true
