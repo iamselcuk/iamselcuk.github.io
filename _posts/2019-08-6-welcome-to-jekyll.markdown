@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " okudugum kitaplar"
+title:  " Okudugum kitaplar"
 date:   2019-08-06 21:03:36 +0530
 categories: Kitaplar
 comments: true
