@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " cnc router"
+title:  " Cnc router"
 date:   2019-08-04 21:03:36 +0530
 categories: Makina
 youtubeId: 6I7ZzQYe9dE
