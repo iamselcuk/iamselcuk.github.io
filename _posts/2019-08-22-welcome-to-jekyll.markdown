@@ -13,8 +13,8 @@ koyu olmasi ve hali hazirda ciftcilik yapan bir elin parmaklarini gecmeyen cifts
 sulamak icin dag tepe deldirmesi uzerine  bana yapilabilir bir calisma olarak gelmistir. Cifcilere boyle bir aletle umurbey barajindan su getirilebilecegi bilgisi verilmistir, bakalim bunu gerceklestirebilecek miyiz.
 
 buradan sulama guzergahi ve yuksekliklere iliskin bilgiler islenmistir.
-<object data="{{ /blob/master/assets/akcaalansulamaprojesi.pdf }}" width="1000" height="1000" type='application/pdf'/>
 
+<iframe src="https://github.com/iamselcuk/iamselcuk.github.io/blob/master/assets/akcaalansulamaprojesi.pdf" width="100%" height="100%"></iframe>
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
