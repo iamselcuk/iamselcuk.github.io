@@ -24,8 +24,8 @@ bir kavram millet kabul etmistir.
 kagidi duzenleniyor. Buradada bir degisim var.
 
 Aklima gelenler bunlar. Okumak isteyenler buradan ulasabilir :
+[Okumak isteyenler buradan ulasabilir](https://iamselcuk.github.io/bookdown-sudkardesler/docs/index.html)
 
-https://iamselcuk.github.io/bookdown-sudkardesler/docs/index.html
 
 
 {% if page.comments %}
