@@ -8,7 +8,7 @@ youtubeId: CI_Cm2JoRZE
 
 ---
 
-Projenin asagidaki pdf dosyasindan mevcuttur. Projenin 3 boyutlu haritasi youtube uzerinden erisebilirsiniz. Bu koy annemin
+Projenin 3 boyutlu haritasi youtube uzerinden erisebilirsiniz. Bu koy annemin
 koyu olmasi ve hali hazirda ciftcilik yapan bir elin parmaklarini gecmeyen ciftsi bulunmasi ve bu ciftcilerin tarlalarini
 sulamak icin dag tepe deldirmesi uzerine  bana yapilabilir bir calisma olarak gelmistir. Cifcilere boyle bir aletle umurbey barajindan su getirilebilecegi bilgisi verilmistir, bakalim bunu gerceklestirebilecek miyiz.
 
