@@ -16,7 +16,8 @@ yapim asamalari
 
 {% include image-gallery.html folder="/uploads/album" %}
 
-<script src="https://embed.github.com/view/3d/iamselcuk/cncrouter/master/1.stl"></script>
+
+<script src="https://embed.github.com/view/3d/iamselcuk/iamselcuk.github.io/master/1.stl"></script>
 
 
 {% if page.comments %}
