@@ -17,7 +17,7 @@ yapim asamalari
 {% include image-gallery.html folder="/uploads/album" %}
 
 <script src="https://embed.github.com/view/3d/https://drive.google.com/file/d/1On4NOMRGt41Qmx2Hb10ra2mIa8JF9Gzl/view?usp=sharing"></script>
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1On4NOMRGt41Qmx2Hb10ra2mIa8JF9Gzl%2Fview%3Fusp%3Dsharing" style="border:0;margin:0;width:100%;height:100%;"></iframe>
+
 
 {% if page.comments %}
 
