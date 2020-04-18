@@ -37,9 +37,10 @@ itme, ömrüm varı, itme ictinab!
 yazılmış
 
 
-Aklima gelenler bunlar. Okumak isteyenler buradan ulasabilir :
+-Aklima gelenler bunlar. Okumak isteyenler buradan ulasabilir :
 [Okumak isteyenler buradan ulasabilir](https://iamselcuk.github.io/bookdown-karagoz/)
-[kitabın son cildini düzenledim tarih 18.04.2020](https://iamselcuk.github.io/bookdown-karagoz1)
+
+-[kitabın son cildini düzenledim tarih 18.04.2020](https://iamselcuk.github.io/bookdown-karagoz1)
 {% if page.comments %}
 
 <div id="disqus_thread"></div>
