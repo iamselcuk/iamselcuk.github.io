@@ -1,0 +1,38 @@
+--- 
+title: " KARAGOZ "
+
+author: " Internete aktaran Selcuk DONMEZ"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+#  index
+ Figurlar\
+ Sunnet yada mecruhun mezerreti\
+ Mandira\
+ Ortaklar\
+ Bahce\
+ Feryad\
+ Orman\
+ Buyukevlenme\
+ Karagozunagalıgı\
+ Canbaz\
+ Karagozunsairlerle imtihanı\
+ Kirginlar yahud Abdal kardeşler\
+ Hamam\
+ Tahmis\
+ Tahi ile Zühre\
+ Çivi baskını\
+ Balık muhaveresi\
+ Meyhane\
+ Salincak\
+ Bursali leyla\
+
+
+

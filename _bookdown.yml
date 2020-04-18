@@ -1,0 +1,7 @@
+book_filename: "bookdown-ort"
+language:
+  ui:
+    chapter_name: " "
+output_dir: "docs"
+download: yes
+delete_merged_file : true
