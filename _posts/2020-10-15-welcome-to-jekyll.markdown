@@ -19,7 +19,7 @@ Endüstri mühendisliğine meraklılarına ve öğrencilerine kaynak sunmak amac
 - [malıyet__muhasebesı](https://yadi.sk/i/ktdQuZ3YeDTSQQ)
 - [olasılık_ders_notları](https://yadi.sk/i/6uJZgLaZK06aXw)
 - [proje_yonetımı_ders_notları](https://yadi.sk/i/cKxqka1__hbs3g)
-- [servıs_sıstemlerı] (https://yadi.sk/i/d1RjTwndW6aaiA)
+- [servıs_sıstemlerı](https://yadi.sk/i/d1RjTwndW6aaiA)
 - [temel_bılgısayar_bılımlerı](https://yadi.sk/i/uqraVkErPPgVlA)
 - [tesıs_planlama_ders_notları](https://yadi.sk/i/JcRKcsXD53jdUw)
 - [tesıs_planlama_ders_notları1](https://yadi.sk/i/uABJ4J1fIuEghA)
