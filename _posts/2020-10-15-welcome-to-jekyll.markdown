@@ -9,7 +9,7 @@ Endüstri mühendisliğine meraklılarına ve öğrencilerine kaynak sunmak amac
 
 
 
-- c_programlama https://yadi.sk/i/tfJBQVZvCFgN9g
+- c_programlama (https://yadi.sk/i/tfJBQVZvCFgN9g)
 - endustrı_muhendıslıgıne_gırıs https://yadi.sk/i/0-dcosLxXVviZQ
 - kalıte_kontrol_ders_notları https://yadi.sk/i/CPw5Jn-bfgH9aw
 - karar_Destek_sıstemlerı https://yadi.sk/i/ug62vosFeBR2Og
