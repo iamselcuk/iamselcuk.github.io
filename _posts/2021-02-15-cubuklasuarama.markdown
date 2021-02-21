@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " çububukla su arama, water dowsing"
-date:   2020-02-15 07:06:36 +0530
+date:   2021-02-15 07:06:36 +0530
 categories: Kütüphane
 comments: true
 youtubeId: FftjV7idYLc
@@ -9,6 +9,8 @@ youtubeId: FftjV7idYLc
 
 Efendim belki yeraltı su arayan çiftçilere denk gelmişsinizdir. Ballandıra ballandıra anlatırlar nasıl su aradıklarını. Bu işi yapan amcaları da millet evliya
 seviyesine yükseltmişlerdir. Bu işin nasıl olduğu akılla aramak zahmetli olduğundan necip milletimiz hemen doğa üstü güçlü olaylara iş havale ederek olaydan sıyılır.
+
+
 Peki işin aslı nedir suyun olduğu yerde bakır birbirlerine paralellerken güya suya denk gelince çarpı işareti alıyormuş. Bu bakır çubuklar manyetik alana duyarlı 
 olduğundan sadece suya değil maden, hatta insanın canlı manyetik enerjisinden vb. bir sürü sebepten etkileniyor. Almanlar iki katlı ev yapıp alt katında
 üç yer tespit edip buraya su koymuşlar ve suyun yerlerini sürekli değiştirmişler, üst katta ise bu çubuklarla suyun yerinin doğru tespit edilip edilmediğine 
