@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " çububukla su arama, water dowsing"
+title:  " Çububukla su arama, water dowsing"
 date:   2021-02-15 07:06:36 +0530
 categories: Kütüphane
 comments: true
