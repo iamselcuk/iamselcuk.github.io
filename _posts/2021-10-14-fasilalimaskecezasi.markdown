@@ -8,9 +8,11 @@ comments: true
 ---
 EFendim bircok vatandasimiza denetimler demeyelimde emirle cezalar yazilmistir. Maalesef bende bu uygulamadan nasibimi aldim. Arastirma sonucunda uygulamanin hukuka uygun olmadigini ogrendim. Sulh ceza mahkemesine dava actim bir yilin sonunda ceza iptal edildi. Bu cezayi odeyenler veya hukuki sureci hakkinda bilgi edinmek isteyenler icin mahkeme dosyasini blogda yayinlamaya karar verdim. Umarim burdan yararlanan olur, bu beni muylu etmeye yeter. 
 
-![davanin_dosyasi](iamselcuk.github.io/assets/merged.pdf  "tiklayin")
+<embed src="iamselcuk.github.io/assets/merged.pdf" type="application/pdf">
 
-iamselcuk.github.io/assets/merged.pdf 
+
+
+
 
 
 
