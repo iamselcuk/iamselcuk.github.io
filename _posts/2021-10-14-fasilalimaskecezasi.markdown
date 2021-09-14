@@ -10,7 +10,7 @@ EFendim bircok vatandasimiza denetimler demeyelimde emirle cezalar yazilmistir. 
 
 
 
-<object data="/assets/merged.pdf" type="application/pdf" width="100%"  > 
+<object data="/assets/merged.pdf" type="application/pdf" width="100%" height="100%" style="overflow: auto;"> 
 </object>
 
 
